@@ -1,0 +1,17 @@
+Turbine Detail---------------
+Turbine name: Penmanshiel
+Turbine type: Senvion MM82 (Senvion MM82 kW)
+Windfarm location: 
+Grantshouse, UK 
+Type: Onshore
+Time interval: 2021-01-01 00:00:00 - 2021-07-01 00:00:00 (181 days)
+
+
+DL Model------------------
+v = wind velocity (m/s)
+theta = pitch angle (rad)
+W = rpm (rads)
+T = torque (N/m)
+P =  Power (kW)
+
+
